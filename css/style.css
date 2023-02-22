@@ -1,0 +1,17 @@
+.navigation-menu {
+  align-items: center;
+  background-color: #1f2937;
+  display: flex;
+  justify-content: space-between;
+  color: #e5e7eb;
+}
+ul {
+  display: flex;
+  gap: 1em;
+  list-style-type: none;
+}
+
+
+.main-part {
+  display: flex;
+}
