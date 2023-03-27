@@ -1,4 +1,5 @@
 body {
+  min-width: 850px;
   font-family: "Roboto", sans-serif;
 }
 .main-part,
